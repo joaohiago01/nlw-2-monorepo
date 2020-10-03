@@ -56,7 +56,7 @@ The following tools were used in the construction of the project:
 
 ## :closed_book: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/joaohiago01/nlw-2-server/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/joaohiago01/nlw-2-monorepo/blob/master/LICENSE) for more information.
 
 ## :rocket: Author
 
