@@ -52,7 +52,7 @@ The following tools were used in the construction of the project:
 - [Expo Google Fonts](https://github.com/expo/google-fonts)
 - [React Navigation](https://reactnavigation.org/)
 
-## :top: [Live Demo Heroku](https://proffy-nlw-2.herokuapp.com/)
+## :top: [Live Demo Netlify](https://proffy-nlw-02.netlify.app/)
 
 ## :closed_book: License
 
