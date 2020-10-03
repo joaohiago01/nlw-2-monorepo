@@ -4,6 +4,8 @@
 
 Proffy is an Open Source project developed in [Rocketseat](https://rocketseat.com.br/) Next Level Week #2 using TypeScript, Node.js, React.js and React Native technologies. 
 
+[API](https://github.com/joaohiago01/nlw-2-server)
+
 [WEB](https://github.com/joaohiago01/nlw-2-web)
 
 [MOBILE](https://github.com/joaohiago01/nlw-2-mobile)
